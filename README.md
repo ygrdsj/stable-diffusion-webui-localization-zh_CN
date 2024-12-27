@@ -1,3 +1,9 @@
+**建议配合双语化插件一起使用**
+
+bilingual：https://github.com/journey-ad/sd-webui-bilingual-localization.git
+
+----
+
 # stable-diffusion-webui-localization-zh_CN
 Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
@@ -30,7 +36,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - [x] [Toolkit / 模型工具包](https://github.com/arenasys/stable-diffusion-webui-model-toolkit)  
   - [x] [two-shot/latent couple / 画面分区(Latent Couple)](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot)  
   - [x] [zoomimage / 页内图片浏览缩放控件](https://github.com/viyiviyi/stable-diffusion-webui-zoomimage)   
-  - [x] [composable-lora / LoRA修饰限制](https://github.com/Mingyuegong/training-wb-composable-lora)  
+  - [x] [composable-lora / LoRA修饰限制](https://github.com/Mingyuegong/training-wb-composable-lora)
 
 </details>
 
