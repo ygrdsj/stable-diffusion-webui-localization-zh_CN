@@ -1393,7 +1393,7 @@
     "Upscale": "图像放大",
     "A, B or C": "A, B或C",
     "Don't": "不复制配置文件（推荐）",
-    "Checkpoints": "SD大模型",
+    "Checkpoints": "大模型",
     "all": "全部",
     "Get comma-separated list of models (for XY Grid)": "生成逗号分隔的模型列表(方便X/Y表使用)",
     "Model directory": "模型目录",
