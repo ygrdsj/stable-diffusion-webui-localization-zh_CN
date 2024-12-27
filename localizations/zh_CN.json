@@ -67,7 +67,7 @@
     "DPM2": "DPM2",
     "DPM2 a": "DPM2 a",
     "DPM++ 2S a": "DPM++ 2S a",
-    "DPM++ 2M": "DPM++ 2M",
+    "DPM++ 2M": "DPM++ 2M（特点：一种增强版的 DPM 采样器，采用了第二次微分的方法来提高图像生成质量和速度。通常具有更高的图像清晰度，适合生成复杂和细节丰富的图像）",
     "DPM fast": "DPM fast",
     "DPM adaptive": "DPM adaptive",
     "LMS Karras": "LMS Karras",
