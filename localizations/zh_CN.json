@@ -1359,7 +1359,6 @@
     "Resizes image to this height. If 0, height is inferred from either of two nearby sliders.": "将高度调整到此值，0表示根据目标宽度或放大倍率自适应调整",
     "Result = A": "获得与A完全相同的模型",
     "Regular expression; if weights's name matches it, the weights is not written to the resulting checkpoint. Use ^model_ema to discard EMA weights.": "与写入内容名称匹配的权重信息将不会写入输出的模型（可以通过写入\"^model_ema\"以舍弃模型中的EMA信息）",
-    "Extra Networks": "额外网络",
     "Postprocessing": "后处理",
     "Postprocessing operation order": "后处理操作顺序",
     "Maximum number of images in upscaling cache": "图像放大缓存中的最大图片数量",
