@@ -8481,7 +8481,7 @@
   "Sampler Settings": "采样方法设置",
   "Sample Width": "样本图像宽度",
   "Sampling method webui": "webui 采样方法",
-  "Sampling settings": "采样方法设置", ,
+  "Sampling settings": "采样方法设置",
   "Sampling steps webui": "webui 采样迭代步数",
   "SAM requires an input image. Please upload an image first.": "SAM 需要你先上传一张图片。",
   "Sanity Sample Negative Prompt": "合理性样本反向提示词",
