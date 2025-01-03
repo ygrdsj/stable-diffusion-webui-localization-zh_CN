@@ -1,3 +1,6 @@
+- 取消原版自带的双语翻译，翻译尽可能仅使用汉语
+- 融合秋叶4.8版本的翻译
+
 **建议配合双语化插件一起使用**
 
 bilingual：https://github.com/journey-ad/sd-webui-bilingual-localization.git
